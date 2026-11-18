@@ -1,0 +1,6 @@
+variable_pair,r,p_value
+EV_charger_count_2025 vs IMD_decile,0.06,3.0242759299903625e-05
+EV_charger_count_2025 vs borough_pct_terraced_flats_PROXY,0.385,6.842887234864047e-171
+chargers_per_sqkm_2025 vs IMD_decile,0.006,0.6936047780389698
+chargers_per_sqkm_2025 vs borough_pct_terraced_flats_PROXY,0.43,3.826400170625538e-217
+IMD_decile vs borough_pct_terraced_flats_PROXY,-0.343,1.8546400085300756e-133

@@ -1,0 +1,3 @@
+variable,morans_i,p_value,z_score
+Charger count per LSOA,0.579,0.001,82.85
+Charger density (per km2),0.663,0.001,94.48

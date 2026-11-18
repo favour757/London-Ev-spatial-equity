@@ -1,0 +1,34 @@
+Borough,n_LSOAs,total_chargers,mean_density,mean_IMD_decile
+Barking and Dagenham,110,29,0.87,2.68
+City of London,6,31,18.14,6.67
+Havering,150,36,0.51,6.35
+Bexley,146,48,0.9,6.51
+Harrow,137,49,1.33,6.55
+Bromley,197,60,0.82,7.11
+Redbridge,161,103,2.01,5.99
+Hillingdon,161,108,0.94,5.91
+Haringey,145,110,4.36,3.9
+Newham,164,111,3.45,3.09
+Greenwich,151,135,3.98,4.32
+Enfield,183,143,3.84,4.38
+Sutton,121,143,5.12,7.1
+Lewisham,169,162,4.86,3.76
+Croydon,220,166,3.31,5.02
+Barnet,211,250,5.27,6.38
+Hackney,144,254,15.12,2.74
+Kingston upon Thames,98,258,11.17,7.62
+Islington,123,266,18.34,3.64
+Hounslow,142,295,9.04,4.83
+Waltham Forest,144,300,11.38,4.08
+Ealing,196,322,7.8,4.8
+Tower Hamlets,144,329,18.68,3.68
+Richmond upon Thames,115,342,12.22,8.32
+Lambeth,178,368,14.66,3.95
+Camden,133,457,26.67,5.41
+Wandsworth,179,566,22.75,6.21
+Brent,173,581,21.1,4.16
+Kensington and Chelsea,103,626,55.83,5.21
+Merton,124,679,25.98,6.89
+Westminster,128,1188,86.87,5.45
+Hammersmith and Fulham,113,1521,122.57,4.82
+Southwark,166,1686,69.47,4.02

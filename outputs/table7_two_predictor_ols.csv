@@ -1,0 +1,4 @@
+predictor,coefficient,p_value
+const,-8.247,2.241251929479944e-131
+IMD_decile,0.357,7.941229460697723e-55
+borough_pct_terraced_flats_PROXY,0.123,6.1030185784836945e-220
